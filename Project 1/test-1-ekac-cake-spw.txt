@@ -1,0 +1,10 @@
+7
+// test for only swap mode
+// -> ekac -> keac -> kaec -> kace -> kcae -> ckae -> cake
+ekac
+keac
+kaec
+kace
+kcae
+ckae
+cake

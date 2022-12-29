@@ -1,0 +1,7 @@
+4
+// Test for length, stack, modification output, and change modes
+baker
+bake
+baked
+backed
+
